@@ -6,14 +6,14 @@ heading: This is a Heading no 1
 subheading: 'Van Sizes are:'
 mainpitch:
   title: Why Tom and Van
-  description: |
-    While your items are in Tom's care they are fully insured.
+  description: >
+    While your items are in Tom's care they are protected by comprehensible
+    insurance.
+
     Tom is a man of his word. He does what he says at the price that he quotes.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We operate mainly in the Chester area but often on long distance nation wide
+  deliveries and collections.
 intro:
   blurbs:
     - image: /img/coffee.png
