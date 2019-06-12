@@ -5,7 +5,7 @@ image: /img/2-tom-leaning-on-bonnet.jpg
 heading: If you need a prompt and reliable service then contact Tom by email or phone.
 subheading: For your local and long distance deliveries and collections.
 mainpitch:
-  title: '                                    Why Tom and Van'
+  title: Why Tom and Van
   description: >
     While your items are in Tom's care they are protected by our comprehensive
     insurance.
