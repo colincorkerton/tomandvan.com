@@ -12,7 +12,7 @@ mainpitch:
 
     Tom is a man of his word. He does what he says at the price that he quotes.
 description: >-
-  We operate mainly in the Chester area but often on long distance nation wide
+  We operate mainly in the Chester area but often on long distance, nation wide,
   deliveries and collections.
 intro:
   blurbs:
