@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: What We Do
+title: Tom and Van
 image: /img/2-tom-leaning-on-bonnet.jpg
-heading: Great coffee with a conscience
+heading: Great coffee with a co
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
