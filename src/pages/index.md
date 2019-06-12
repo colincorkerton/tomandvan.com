@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Tom and Van
 image: /img/2-tom-leaning-on-bonnet.jpg
-heading: Great coffee with a co
-subheading: Support sustainable farming while enjoying a cup
+heading: Great coffee with a
+subheading: 'Van Sizes are:'
 mainpitch:
   title: Why Kaldi
   description: >
