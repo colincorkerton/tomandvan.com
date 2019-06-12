@@ -7,7 +7,7 @@ subheading: 'Van Sizes are:'
 mainpitch:
   title: Why Tom and Van
   description: >
-    While your items are in Tom's care they are protected by comprehensible
+    While your items are in Tom's care they are protected by comprehensive
     insurance.
 
     Tom is a man of his word. He does what he says at the price that he quotes.
