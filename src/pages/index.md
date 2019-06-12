@@ -3,7 +3,7 @@ templateKey: index-page
 title: Tom and Van
 image: /img/2-tom-leaning-on-bonnet.jpg
 heading: If you need a prompt and reliable service then contact Tom by email or phone.
-subheading: 'Van Sizes are:'
+subheading: For your local and long distance deliveries and collections.
 mainpitch:
   title: Why Tom and Van
   description: >
