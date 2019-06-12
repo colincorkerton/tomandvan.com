@@ -2,15 +2,13 @@
 templateKey: index-page
 title: Tom and Van
 image: /img/2-tom-leaning-on-bonnet.jpg
-heading: Great coffee with a
+heading: This is a Heading no 1
 subheading: 'Van Sizes are:'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Tom and Van
+  description: |
+    While your items are in Tom's care they are fully insured.
+    Tom is a man of his word. He does what he says at the price that he quotes.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
