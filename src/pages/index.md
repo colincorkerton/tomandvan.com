@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Tom and Van
 image: /img/2-tom-leaning-on-bonnet.jpg
-heading: This is a Heading no 1
+heading: If you need a prompt and reliable service then contact Tom by email or phone.
 subheading: 'Van Sizes are:'
 mainpitch:
   title: Why Tom and Van
